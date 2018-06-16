@@ -10,6 +10,8 @@ body{
 
 
 
+
+
 .rock{
 max-width: 1200px;
 margin: 0 auto;	 
@@ -121,14 +123,16 @@ img{
 
 
 .tm-sidebar{
-max-width: 25%;
-float: right;
-width: 25%;
+	
+max-width:25%;
+float:right;
+width:25%;
 }
 
 .tm-sidebar div{
 background: #fff;
 padding: 30px;
+
 }
 
 .tm-footer:hover{
@@ -149,6 +153,23 @@ padding: 30px;
 	background:#fff;
 	padding: 60px;
 	margin-top: 10px; 
+}
+
+
+/*******about****/
+
+.img{
+	background-image: url(../img/imgio.jpg);
+	background-size: cover;
+	 
+	   
+    
+}
+.tm-boxside{
+	color: black;
+	padding: 30px;
+	 background-color: whitesmoke;
+	   
 }
 
 
